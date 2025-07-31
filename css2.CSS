@@ -1,0 +1,10 @@
+
+a{
+    padding: 2%;
+    border-width: 2%;
+    border: 1px solid rgb(152, 161, 248);
+    text-decoration: none;
+    background: linear-gradient(rgb(25, 153, 226),rgb(18, 18, 20));
+    color: white;
+    
+}
